@@ -1,0 +1,4 @@
+version: v1
+name: buf.build/zhifeifu/grpc-demo
+deps:
+  - buf.build/googleapis/googleapis
